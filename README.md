@@ -7,6 +7,7 @@ Using Terraform to spin up Azure AKS cluster and deploy a MySql Database contain
 A project to demonstrate:
 
   Building a simple PySpark Application to load Data to Mysql Database.
+  
   Containerse PySpark Application Using Docker and push to GitLab Container registery
   Pull Mysql image from Docker Hub
   Cretae Kubernetes YAML files for (Pods, Stateful Sets, Secrets, Services, PV, PVC etc.,) 
