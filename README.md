@@ -12,7 +12,7 @@ A project to demonstrate:
   
   Cretae Kubernetes YAML files for (Pods, Stateful Sets, Secrets, Services, PV, PVC etc.,) 
   
-  Leverage Helm Charts to package YAML files to deployed on kubernetes
+  Leverage Helm Charts to package YAML files to deploye on kubernetes
   
   Deploy Helm charts on Kubernetes Minikube to verify things work as expected
   
